@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0516-longest-palindromic-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0576-out-of-boundary-paths](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0576-out-of-boundary-paths) |
 ## Backtracking
 |  |
 | ------- |
