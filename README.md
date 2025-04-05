@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0605-can-place-flowers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
