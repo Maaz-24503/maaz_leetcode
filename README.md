@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0605-can-place-flowers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
