@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0605-can-place-flowers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0516-longest-palindromic-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0576-out-of-boundary-paths](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0576-out-of-boundary-paths) |
