@@ -2,12 +2,12 @@ class Solution {
 public:
     int minimumOperations(vector<int>& nums) {
         int n = nums.size();
-        unordered_set<int> seen;
+        vector<bool> seen(101, false);
         for(int i = n-1; i>=0; i--){
-            if(seen.find(nums[i]) != seen.end()){
+            if(seen[nums[i]]){
                 return (i/3) + 1;
             }
-            else seen.insert(nums[i]);
+            else seen[nums[i]] = true;
         }
         return 0;
     }
