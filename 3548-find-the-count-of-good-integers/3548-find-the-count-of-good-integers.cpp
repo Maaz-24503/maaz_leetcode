@@ -24,10 +24,12 @@ private:
         set<map<int, int>> tbr;
         for(int i = 0; i<nums.size(); i++){
             string curr = nums[i];
-            for(int i = (n/2) - 1; i>=0; i--) curr = curr + curr[i];
-            if(stoll(curr)%k == 0){
+            string full;
+            full.reserve(n);
+            full = curr + string(curr.rbegin() + (n % 2), curr.rend());
+            if(stoll(full)%k == 0){
                 map<int, int> temp;
-                for(int i = 0; i<curr.size(); i++) temp[curr[i] - '0']++;
+                for(int i = 0; i<full.size(); i++) temp[full[i] - '0']++;
                 tbr.insert(temp);
             }
         }
