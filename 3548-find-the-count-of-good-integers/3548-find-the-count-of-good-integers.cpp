@@ -23,15 +23,15 @@ private:
     }
 
 
-    set<map<int, int>> fixNums(const vector<string>& nums){
-        set<map<int, int>> tbr;
+    set<vector<int>> fixNums(const vector<string>& nums){
+        set<vector<int>> tbr;
         for(int i = 0; i<nums.size(); i++){
             string curr = nums[i];
             string full;
             full.reserve(n);
             full = curr + string(curr.rbegin() + (n % 2), curr.rend());
             if(stoll(full)%k == 0){
-                map<int, int> temp;
+                vector<int> temp(10,0);
                 for(int i = 0; i<full.size(); i++) temp[full[i] - '0']++;
                 tbr.insert(temp);
             }
@@ -44,19 +44,17 @@ public:
         this->n = n; 
         this->k = k;
         factorial();
-        set<map<int, int>> nums = fixNums(genNums((n+1)/2));
+        set<vector<int>> nums = fixNums(genNums((n+1)/2));
         long long ans = 0;
-        for(auto& mp:nums){
-            vector<int> rep;
+        for(auto& rep:nums){
             long long curr = 0;
-            for(auto [val, freq] : mp){
-                if(freq > 1) rep.push_back(freq);
-            }
             long long div = 1;
-            for(auto& num : rep) div = div * f[num];
+            for(int i = 0; i<rep.size(); i++){
+                if(rep[i] > 1) div *= f[rep[i]];
+            }
             curr = f[n]/div;
-            if(mp.count(0)){
-                div /= mp.at(0);
+            if(rep[0]){
+                div /= rep[0];
                 long long zeros = f[n-1]/div;
                 ans += curr - zeros;
             }
