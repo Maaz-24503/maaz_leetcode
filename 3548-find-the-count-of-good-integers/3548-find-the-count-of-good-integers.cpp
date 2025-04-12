@@ -8,17 +8,20 @@ private:
         for(int i = 1; i<=10; i++) f[i] = f[i-1]*i;
     }
 
-    vector<string> genNums(int p){
-        if(p == 0) return vector<string>{""};
-        vector<string> prev = genNums(p - 1);
-        vector<string> curr;
-        for(int i = 0; i<prev.size(); i++){
-            for(int j = (p == (n+1)/2 ? 1 : 0); j < 10; j++){
-                curr.push_back(to_string(j) + prev[i]);
+    vector<string> genNums(int p) {
+        vector<string> curr{""};
+        for (int i = 1; i <= p; i++) {
+            vector<string> next;
+            for (const string& s : curr) {
+                for (int d = (i == p ? 1 : 0); d < 10; d++) {
+                    next.push_back(to_string(d) + s);
+                }
             }
+            curr = move(next);
         }
         return curr;
     }
+
 
     set<map<int, int>> fixNums(const vector<string>& nums){
         set<map<int, int>> tbr;
