@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Dynamic Programming
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Binary Search
 |  |
 | ------- |
