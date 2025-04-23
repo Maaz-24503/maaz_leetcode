@@ -1,20 +1,21 @@
-class UF{
+class UnionFind{
 private:
-    vector<int> par, rank;
+    vector<int> parent, rank;
     int comp;
+
 public:
-    UF(int n){
-        par.resize(n);
-        rank.resize(n, 1);
-        for(int i = 0; i<n; i++) par[i] = i;
+    UnionFind(int n){
         comp = n;
+        parent.resize(n);
+        for(int i = 0; i<n; i++) parent[i] = i;
+        rank.resize(n, 1);
     }
 
     int find(int u){
-        if(u == par[u]) return u;
-        int pathComp = find(par[u]);
-        par[u] = pathComp;
-        return pathComp;
+        if(u == parent[u]) return u;
+        int par = find(parent[u]);
+        parent[u] = par;
+        return par;
     }
 
     void merge(int u, int v){
@@ -22,11 +23,11 @@ public:
         v = find(v);
         if(u == v) return;
         comp--;
-        if(rank[u] > rank[v]) par[v] = u;
-        else if(rank[u] < rank[v]) par[u] = par[v];
+        if(rank[u] > rank[v]) parent[v] = u;
+        else if(rank[u] < rank[v]) parent[u] = v;
         else{
-            par[u] = v;
-            rank[v]++;
+            rank[u]++;
+            parent[v] = u;
         }
     }
 
@@ -34,14 +35,15 @@ public:
         return comp;
     }
 };
+
 class Solution {
 public:
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n = isConnected.size();
-        UF dsu = UF(n);
+        UnionFind dsu = UnionFind(n);
         for(int i = 0; i<n-1; i++)
             for(int j = i+1; j<n; j++)
-                if(isConnected[i][j]) 
+                if(isConnected[i][j])
                     dsu.merge(i, j);
         return dsu.components();
     }
