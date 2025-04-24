@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0035-search-insert-position) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0283-move-zeroes) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0035-search-insert-position) |
 | [1046-max-consecutive-ones-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
