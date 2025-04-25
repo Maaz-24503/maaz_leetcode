@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Dynamic Programming
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2249-count-the-hidden-sequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [2915-count-of-interesting-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2915-count-of-interesting-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
