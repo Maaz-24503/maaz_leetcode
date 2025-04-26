@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2636-maximum-subsequence-score](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Binary Search
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0969-number-of-recent-calls) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Data Stream
 |  |
 | ------- |
@@ -353,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0310-minimum-height-trees) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
