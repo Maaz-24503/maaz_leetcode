@@ -1,16 +1,14 @@
 class Solution {
 public:
     int numTrees(int n) {
-        vector<int> memo(n+1, -1);
-        function<int(int)> helper = [&](int k){
-            if(k <= 1) return 1;
-            if(memo[k] != -1) return memo[k];
+        vector<int> memo(n+1, 1);
+        for(int i = 2; i<=n; i++){
             int ans = 0;
-            for(int i = 1; i<=k; i++){
-                ans += helper(i-1) * helper(k - i);
+            for(int j = 1; j<=i; j++){
+                ans += memo[j-1]*memo[i-j];
             }
-            return memo[k] = ans;
-        };
-        return helper(n);
+            memo[i] = ans;
+        }
+        return memo[n];
     }
 };
