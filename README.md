@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0238-product-of-array-except-self) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0198-house-robber](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0416-partition-equal-subset-sum) |
