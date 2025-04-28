@@ -12,20 +12,18 @@
 class Solution {
 public:
     int pathSum(TreeNode* root, int targetSum) {
-        int ans = 0;
-        unordered_map<long long, int> sums{{0,1}};
-        long long sum = 0;
-        function<void(TreeNode*)> helper = [&](TreeNode* root){
-            if(root == nullptr) return;
-            sum += root->val;
-            if(sums.count(sum - targetSum)) ans += sums[sum - targetSum];
-            sums[sum]++;
-            helper(root->left);
-            helper(root->right);
-            sums[sum]--;
-            sum -= root->val;
+        unordered_map<long long, int> preSum;
+        preSum[0] = 1;
+        function<int(TreeNode*,long long)> dfs = [&](TreeNode* root, long long currSum){
+            if(root == nullptr) return 0;
+            currSum += root->val;
+            int ans = 0;
+            if(preSum.count(currSum - targetSum)) ans = preSum[currSum - targetSum];
+            preSum[currSum]++;
+            int left = dfs(root->left, currSum), right = dfs(root->right, currSum);
+            preSum[currSum]--;
+            return left + right + ans;
         };
-        helper(root);
-        return ans;
+        return dfs(root, 0);
     }
 };
