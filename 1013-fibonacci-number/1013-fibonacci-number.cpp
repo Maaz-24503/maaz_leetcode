@@ -4,6 +4,9 @@ public:
         if(n < 2) return n;
         // | Fk+1  Fk    |
         // | Fk    Fk-1  |
+
+        // Prove by induction for fun
+        
         vector<vector<int>> mat{{1, 1}, {1, 0}};
         auto matMul = [](vector<vector<int>>& matA, vector<vector<int>>& matB) {
             vector<vector<int>> ans(2, vector<int>(2));
