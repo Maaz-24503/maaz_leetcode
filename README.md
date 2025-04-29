@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0299-bulls-and-cows](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0394-decode-string) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0299-bulls-and-cows](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0299-bulls-and-cows) |
 | [0797-rabbits-in-forest](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0797-rabbits-in-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0299-bulls-and-cows) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Matrix
 |  |
