@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0806-domino-and-tromino-tiling) |
+| [0868-push-dominoes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1250-longest-common-subsequence) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0649-dota2-senate) |
+| [0868-push-dominoes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0868-push-dominoes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1250-longest-common-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0443-string-compression) |
+| [0868-push-dominoes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0868-push-dominoes) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
