@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0904-leaf-similar-trees) |
 | [0922-possible-bipartition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0922-possible-bipartition) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1036-rotting-oranges) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0922-possible-bipartition) |
 | [1300-critical-connections-in-a-network](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1300-critical-connections-in-a-network) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0310-minimum-height-trees) |
+| [0820-find-eventual-safe-states](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Monotonic Queue
 |  |
