@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Backtracking
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0922-possible-bipartition) |
 | [1300-critical-connections-in-a-network](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Union Find
 |  |
 | ------- |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0399-evaluate-division) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0310-minimum-height-trees) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Monotonic Queue
 |  |
 | ------- |
