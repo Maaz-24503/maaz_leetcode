@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0922-possible-bipartition) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0922-possible-bipartition) |
 | [1300-critical-connections-in-a-network](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Union Find
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Monotonic Queue
 |  |
