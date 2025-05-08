@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Dynamic Programming
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0399-evaluate-division) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2868-continuous-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2868-continuous-subarrays) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Quickselect
 |  |
 | ------- |
