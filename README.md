@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2868-continuous-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2636-maximum-subsequence-score](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2636-maximum-subsequence-score) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Two Pointers
 |  |
 | ------- |
