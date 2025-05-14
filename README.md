@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Greedy
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Sorting
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Simulation
 |  |
 | ------- |
