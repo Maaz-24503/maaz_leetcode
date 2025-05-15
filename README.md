@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2868-continuous-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2636-maximum-subsequence-score](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2636-maximum-subsequence-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Two Pointers
 |  |
