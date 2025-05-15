@@ -4,7 +4,7 @@ public:
     typedef vector<vector<long long>> Matrix;
     Matrix identity;
 
-    Matrix matMul(Matrix matA, Matrix matB){
+    Matrix matMul(const Matrix& matA, const Matrix& matB){
         Matrix ans(26, vector<long long> (26, 0));
         for(int i = 0; i<26; i++){
             for(int k = 0; k<26; k++){
@@ -16,7 +16,7 @@ public:
         return ans;
     }
 
-    Matrix matExpo(Matrix mat, int p){
+    Matrix matExpo(const Matrix& mat, int p){
         if(p == 0) return identity;
         Matrix div = matExpo(mat, p/2);
         Matrix mul = matMul(div, div);
