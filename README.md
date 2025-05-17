@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0075-sort-colors) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0162-find-peak-element) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0368-largest-divisible-subset) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1777-determine-if-two-strings-are-close) |
