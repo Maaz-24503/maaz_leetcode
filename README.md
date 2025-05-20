@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3849-equal-sum-grid-partition-i) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3639-zero-array-transformation-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Sorting
 |  |
