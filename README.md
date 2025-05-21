@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
+| [0514-freedom-trail](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0576-out-of-boundary-paths](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0443-string-compression) |
+| [0514-freedom-trail](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0649-dota2-senate) |
 | [0868-push-dominoes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0868-push-dominoes) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0437-path-sum-iii) |
+| [0514-freedom-trail](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0514-freedom-trail) |
 | [0547-number-of-provinces](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0871-keys-and-rooms) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0310-minimum-height-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0399-evaluate-division) |
+| [0514-freedom-trail](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0514-freedom-trail) |
 | [0547-number-of-provinces](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0871-keys-and-rooms) |
