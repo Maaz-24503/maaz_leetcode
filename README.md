@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0075-sort-colors) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0136-single-number) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0208-implement-trie-prefix-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0299-bulls-and-cows](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0299-bulls-and-cows) |
 | [0797-rabbits-in-forest](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0797-rabbits-in-forest) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2428-equal-row-and-column-pairs) |
