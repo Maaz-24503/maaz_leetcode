@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0085-maximal-rectangle) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0038-count-and-say) |
 | [0091-decode-ways](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0091-decode-ways) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1013-fibonacci-number) |
