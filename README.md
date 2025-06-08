@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0310-minimum-height-trees) |
+| [0386-lexicographical-numbers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0437-path-sum-iii) |
 | [0514-freedom-trail](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0514-freedom-trail) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0386-lexicographical-numbers) |
 | [1397-search-suggestions-system](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1397-search-suggestions-system) |
 ## Monotonic Stack
 |  |
