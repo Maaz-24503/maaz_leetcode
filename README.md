@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0416-partition-equal-subset-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0338-counting-bits) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0208-implement-trie-prefix-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0299-bulls-and-cows](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0299-bulls-and-cows) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0797-rabbits-in-forest](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1397-search-suggestions-system](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1397-search-suggestions-system) |
 ## Monotonic Stack
