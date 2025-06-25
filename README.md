@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2636-maximum-subsequence-score](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 ## Shortest Path
 |  |
 | ------- |
