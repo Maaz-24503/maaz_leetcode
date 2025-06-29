@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0907-koko-eating-bananas) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0576-out-of-boundary-paths](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0740-delete-and-earn](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0868-push-dominoes) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0740-delete-and-earn](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1319-unique-number-of-occurrences) |
