@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
