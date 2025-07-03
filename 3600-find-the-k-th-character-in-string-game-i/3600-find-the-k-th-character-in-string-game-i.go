@@ -1,14 +1,14 @@
 func kthCharacter(k int) byte {
-    str := "a"
-    for len(str) < k {
-        n := len(str)
-        for i:=0; i<n; i++ {
-            if str[i] == 'z' {
-                str += "a"
+    var arr []byte
+    arr = append(arr, 'a')
+    for len(arr) < k {
+        for _, c := range arr{
+            if c == 'z'{
+                arr = append(arr, 'a')
             } else {
-                str += string(str[i] + 1)
+                arr = append(arr, c + 1)
             }
         }
     }
-    return str[k - 1]
+    return arr[k - 1]
 }
