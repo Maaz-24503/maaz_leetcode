@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1087-longest-arithmetic-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1206-corporate-flight-bookings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0868-push-dominoes) |
 | [0967-minimum-falling-path-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1013-fibonacci-number) |
+| [1087-longest-arithmetic-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1250-longest-common-subsequence) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0797-rabbits-in-forest) |
+| [1087-longest-arithmetic-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1087-longest-arithmetic-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1397-search-suggestions-system](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1397-search-suggestions-system) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
