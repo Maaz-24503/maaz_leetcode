@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1397-search-suggestions-system) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1250-longest-common-subsequence) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1500-count-largest-group](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
