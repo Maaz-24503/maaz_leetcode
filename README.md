@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0797-rabbits-in-forest) |
+| [0875-longest-mountain-in-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0907-koko-eating-bananas](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0868-push-dominoes) |
+| [0875-longest-mountain-in-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0443-string-compression) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0868-push-dominoes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0868-push-dominoes) |
+| [0875-longest-mountain-in-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1894-merge-strings-alternately) |
