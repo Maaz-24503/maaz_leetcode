@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0909-stone-game) |
 | [0911-profitable-schemes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0911-profitable-schemes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-profitable-schemes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0911-profitable-schemes) |
 | [0923-super-egg-drop](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0923-super-egg-drop) |
 | [0930-all-possible-full-binary-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0930-all-possible-full-binary-trees) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
