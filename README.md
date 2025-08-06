@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0077-combinations](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0216-combination-sum-iii) |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0365-water-and-jug-problem](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0368-largest-divisible-subset) |
