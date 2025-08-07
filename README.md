@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1900-closest-dessert-cost](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1900-closest-dessert-cost) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1900-closest-dessert-cost](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1900-closest-dessert-cost) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0216-combination-sum-iii) |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1900-closest-dessert-cost](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1900-closest-dessert-cost) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
