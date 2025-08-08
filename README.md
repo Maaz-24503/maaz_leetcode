@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1900-closest-dessert-cost](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1900-closest-dessert-cost) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2050-count-good-numbers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
