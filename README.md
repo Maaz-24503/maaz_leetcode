@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
