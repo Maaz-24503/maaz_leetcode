@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0368-largest-divisible-subset) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0258-add-digits) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 ## Shortest Path
