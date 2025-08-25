@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-video-stitching](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1081-video-stitching) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1105-uncrossed-lines) |
+| [1130-last-stone-weight-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1206-corporate-flight-bookings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-video-stitching](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1081-video-stitching) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1105-uncrossed-lines) |
+| [1130-last-stone-weight-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1170-shortest-common-supersequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1250-longest-common-subsequence) |
