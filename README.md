@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0078-subsets) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0037-sudoku-solver) |
 | [0077-combinations](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0089-gray-code) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0208-implement-trie-prefix-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0299-bulls-and-cows](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0299-bulls-and-cows) |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
