@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0875-longest-mountain-in-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0907-koko-eating-bananas](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0907-koko-eating-bananas) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0907-koko-eating-bananas) |
 | [0923-super-egg-drop](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0923-super-egg-drop) |
 | [1046-max-consecutive-ones-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1036-rotting-oranges) |
@@ -906,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0437-path-sum-iii) |
 | [0514-freedom-trail](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0514-freedom-trail) |
 | [0547-number-of-provinces](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0904-leaf-similar-trees) |
@@ -934,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0514-freedom-trail](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0514-freedom-trail) |
 | [0547-number-of-provinces](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0922-possible-bipartition) |
@@ -1029,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0922-possible-bipartition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -1052,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0692-top-k-frequent-words](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0692-top-k-frequent-words) |
+| [0794-swim-in-rising-water](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0794-swim-in-rising-water) |
 | [1397-search-suggestions-system](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2023-design-movie-rental-system](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2023-design-movie-rental-system) |
