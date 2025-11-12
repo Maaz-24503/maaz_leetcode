@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -875,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -1191,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0937-online-stock-span) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bucket Sort
 |  |
 | ------- |
