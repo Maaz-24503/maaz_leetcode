@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0638-shopping-offers) |
 | [0647-palindromic-substrings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0740-delete-and-earn) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0868-push-dominoes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0868-push-dominoes) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0797-rabbits-in-forest](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -886,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0937-online-stock-span) |
