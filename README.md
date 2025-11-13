@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0611-valid-triangle-number) |
+| [0638-shopping-offers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0692-top-k-frequent-words) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0576-out-of-boundary-paths](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0576-out-of-boundary-paths) |
+| [0638-shopping-offers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0638-shopping-offers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0740-delete-and-earn) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0216-combination-sum-iii) |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
+| [0638-shopping-offers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0638-shopping-offers) |
 | [0679-24-game](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0679-24-game) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1900-closest-dessert-cost](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1900-closest-dessert-cost) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
+| [0638-shopping-offers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0638-shopping-offers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
+| [0638-shopping-offers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0638-shopping-offers) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
 |  |
@@ -1172,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0070-climbing-stairs) |
+| [0638-shopping-offers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0638-shopping-offers) |
 | [0930-all-possible-full-binary-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1236-n-th-tribonacci-number) |
