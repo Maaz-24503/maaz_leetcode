@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0390-elimination-game](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0390-elimination-game) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0679-24-game](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0679-24-game) |
@@ -1214,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0909-stone-game](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0909-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
