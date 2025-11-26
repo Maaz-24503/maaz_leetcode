@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1130-last-stone-weight-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1206-corporate-flight-bookings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1130-last-stone-weight-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1170-shortest-common-supersequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1036-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -1052,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1162-as-far-from-land-as-possible](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
