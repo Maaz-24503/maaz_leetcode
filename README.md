@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2439-minimize-maximum-of-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2479-meeting-rooms-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2439-minimize-maximum-of-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2439-minimize-maximum-of-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2636-maximum-subsequence-score](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2439-minimize-maximum-of-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2529-range-product-queries-of-powers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -833,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2439-minimize-maximum-of-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
