@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2107-find-unique-binary-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2164-two-best-non-overlapping-events](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2050-count-good-numbers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2288-count-operations-to-obtain-zero) |
