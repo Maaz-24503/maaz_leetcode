@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0945-snakes-and-ladders) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1006-vowel-spellchecker](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0797-rabbits-in-forest](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0797-rabbits-in-forest) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1081-video-stitching](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1081-video-stitching) |
