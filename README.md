@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0945-snakes-and-ladders) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-super-egg-drop](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0923-super-egg-drop) |
 | [0930-all-possible-full-binary-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0967-minimum-falling-path-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0972-knight-dialer) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1006-vowel-spellchecker](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1032-satisfiability-of-equality-equations) |
