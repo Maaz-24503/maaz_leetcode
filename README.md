@@ -1074,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-all-possible-full-binary-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -1106,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -1165,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-all-possible-full-binary-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
