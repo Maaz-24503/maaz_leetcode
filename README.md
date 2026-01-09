@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1130-last-stone-weight-ii) |
+| [1140-stone-game-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1206-corporate-flight-bookings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1206-corporate-flight-bookings) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1130-last-stone-weight-ii) |
+| [1140-stone-game-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1170-shortest-common-supersequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1191-k-concatenation-maximum-sum) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-super-egg-drop](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0923-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1140-stone-game-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1390-four-divisors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1390-four-divisors) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1140-stone-game-ii) |
 | [1206-corporate-flight-bookings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1590-make-sum-divisible-by-p](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -1370,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0909-stone-game](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0909-stone-game) |
+| [1140-stone-game-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1140-stone-game-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
