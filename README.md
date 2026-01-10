@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1686-stone-game-vi](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1686-stone-game-vi) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1642-water-bottles) |
+| [1686-stone-game-vi](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1686-stone-game-vi) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1686-stone-game-vi](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1686-stone-game-vi) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1952-minimum-sideway-jumps](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1952-minimum-sideway-jumps) |
@@ -754,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1686-stone-game-vi](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1686-stone-game-vi) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -1286,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1397-search-suggestions-system](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1686-stone-game-vi](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1686-stone-game-vi) |
 | [2023-design-movie-rental-system](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2164-two-best-non-overlapping-events](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -1382,6 +1387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0909-stone-game) |
 | [1140-stone-game-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1140-stone-game-ii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1686-stone-game-vi](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1686-stone-game-vi) |
 | [3462-vowels-game-in-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
