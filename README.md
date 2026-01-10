@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1952-minimum-sideway-jumps](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1952-minimum-sideway-jumps) |
@@ -749,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1397-search-suggestions-system](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -1377,6 +1381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0909-stone-game](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0909-stone-game) |
 | [1140-stone-game-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1140-stone-game-ii) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3462-vowels-game-in-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
