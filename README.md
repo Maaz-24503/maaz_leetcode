@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1140-stone-game-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1403,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
