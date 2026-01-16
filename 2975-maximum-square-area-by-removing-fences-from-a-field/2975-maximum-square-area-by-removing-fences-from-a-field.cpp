@@ -22,7 +22,6 @@ public:
         int MOD = 1e9 + 7;
         while(!hComb.empty()){
             int curr = hComb.top();
-            cout<<curr<<" ";
             hComb.pop();
             if(vComb.find(curr) != vComb.end()) return ((curr + 0LL) * curr) % MOD;
         }
