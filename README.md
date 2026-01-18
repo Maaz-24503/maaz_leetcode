@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1895-largest-magic-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1895-largest-magic-square) |
 | [1900-closest-dessert-cost](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1900-closest-dessert-cost) |
 | [1952-minimum-sideway-jumps](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1952-minimum-sideway-jumps) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1590-make-sum-divisible-by-p](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1895-largest-magic-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1895-largest-magic-square) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -980,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1895-largest-magic-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
