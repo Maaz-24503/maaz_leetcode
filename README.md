@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1140-stone-game-ii) |
 | [1206-corporate-flight-bookings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1206-corporate-flight-bookings) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1895-largest-magic-square) |
@@ -917,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-super-egg-drop](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0923-super-egg-drop) |
 | [1046-max-consecutive-ones-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1397-search-suggestions-system](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1397-search-suggestions-system) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -980,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1036-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1895-largest-magic-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1895-largest-magic-square) |
