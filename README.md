@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1895-largest-magic-square) |
 | [1900-closest-dessert-cost](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1900-closest-dessert-cost) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1952-minimum-sideway-jumps](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1952-minimum-sideway-jumps) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1900-closest-dessert-cost](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1900-closest-dessert-cost) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1952-minimum-sideway-jumps](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1952-minimum-sideway-jumps) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -1457,5 +1459,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0207-course-schedule) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
