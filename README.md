@@ -1465,6 +1465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0207-course-schedule) |
+| [1615-maximal-network-rank](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1615-maximal-network-rank) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
