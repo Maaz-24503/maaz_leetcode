@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3321-type-of-triangle) |
+| [3379-transformed-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3453-separate-squares-i) |
@@ -1057,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3336-water-bottles-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
