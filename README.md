@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0638-shopping-offers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0638-shopping-offers) |
 | [0679-24-game](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0679-24-game) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0638-shopping-offers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0638-shopping-offers) |
