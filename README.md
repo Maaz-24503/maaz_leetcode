@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1763-longest-nice-substring](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1763-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1397-search-suggestions-system](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1397-search-suggestions-system) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1500-count-largest-group](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1590-make-sum-divisible-by-p) |
@@ -1492,10 +1495,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Game Theory
 |  |
 | ------- |
