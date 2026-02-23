@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1895-largest-magic-square) |
 | [1900-closest-dessert-cost](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1900-closest-dessert-cost) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1952-minimum-sideway-jumps](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1952-minimum-sideway-jumps) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -1114,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0937-online-stock-span) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2211-count-collisions-on-a-road](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -1486,6 +1488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0937-online-stock-span) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bucket Sort
 |  |
