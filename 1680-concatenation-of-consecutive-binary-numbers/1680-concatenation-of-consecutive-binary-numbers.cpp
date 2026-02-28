@@ -1,24 +1,13 @@
 class Solution {
 public:
     int concatenatedBinary(int n) {
-        function<string(int)> numToBin = [](int k) -> string {
-            string ans = "";
-            while(k > 0){
-                if(k % 2) ans += "1";
-                else ans += "0";
-                k /= 2;
-            }
-            reverse(ans.begin(), ans.end());
-            return ans;
-        };
-        string completeNum = "";
-        for(int i = 1; i <= n; i++) completeNum += numToBin(i);
-        long long res = 0LL;
-        for(char &d : completeNum){
-            int dig = d - '0';
-            res = (res<<1) + dig;
-            res %= (long long) 1e9 + 7;
+        long long ans = 0LL;
+        int bits = 0;
+        int MOD = 1e9 + 7;
+        for(int i = 1; i <= n; i++){
+            if((i & (i - 1)) == 0) bits++;  // basically means i is a pwr of 2;
+            ans = ((ans<<bits) + i) % MOD; 
         }
-        return static_cast<int>(res);
+        return ans;
     }
 };
