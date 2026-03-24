@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2868-continuous-subarrays) |
+| [2906-construct-product-matrix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2906-construct-product-matrix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -1117,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2906-construct-product-matrix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
