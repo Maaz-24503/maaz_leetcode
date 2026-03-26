@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3583-count-special-triplets](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3583-count-special-triplets) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -979,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3583-count-special-triplets](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3583-count-special-triplets) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -1127,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
