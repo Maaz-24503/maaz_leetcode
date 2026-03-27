@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -1127,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2906-construct-product-matrix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -1165,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
