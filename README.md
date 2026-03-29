@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2573-find-the-string-with-lcp](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2636-maximum-subsequence-score](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2573-find-the-string-with-lcp](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
+| [2573-find-the-string-with-lcp](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2573-find-the-string-with-lcp](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2636-maximum-subsequence-score](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2689-rearranging-fruits) |
@@ -1128,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2573-find-the-string-with-lcp](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -1633,6 +1638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Minimum Spanning Tree
