@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2439-minimize-maximum-of-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2479-meeting-rooms-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2470-removing-stars-from-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1587,6 +1589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1397-search-suggestions-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Monotonic Stack
 |  |
