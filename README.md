@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1140,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1338,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-critical-connections-in-a-network](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1375,6 +1378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1669,6 +1673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2573-find-the-string-with-lcp) |
