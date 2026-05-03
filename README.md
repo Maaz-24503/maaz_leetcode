@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0796-rotate-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0796-rotate-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1697,4 +1698,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
