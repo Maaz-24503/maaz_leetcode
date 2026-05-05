@@ -815,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0165-compare-version-numbers) |
@@ -1296,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0328-odd-even-linked-list) |
