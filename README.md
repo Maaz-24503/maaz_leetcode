@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2615-sum-of-distances](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2615-sum-of-distances) |
@@ -1231,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3379-transformed-array) |
