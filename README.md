@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1686-stone-game-vi](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1686-stone-game-vi) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1686-stone-game-vi](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1686-stone-game-vi) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -922,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1686-stone-game-vi](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1686-stone-game-vi) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1777-determine-if-two-strings-are-close) |
