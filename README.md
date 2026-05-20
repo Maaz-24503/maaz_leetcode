@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3840-house-robber-v](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3840-house-robber-v) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3660-jump-game-ix) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3840-house-robber-v](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3840-house-robber-v) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
