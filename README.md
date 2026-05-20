@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3903-inverse-coin-change](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3903-inverse-coin-change) |
 | [3938-twisted-mirror-path-count](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3938-twisted-mirror-path-count) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Combinatorics
 |  |
 | ------- |
