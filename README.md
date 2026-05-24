@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1686-stone-game-vi) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1833-find-the-highest-altitude) |
