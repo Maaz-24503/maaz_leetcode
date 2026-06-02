@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -837,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Prefix Sum
@@ -984,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3647-zero-array-transformation-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1157,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3453-separate-squares-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3827-implement-router) |
