@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-two-best-non-overlapping-events](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -875,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1894-merge-strings-alternately) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1274,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2048-build-array-from-permutation) |
 | [2069-walking-robot-simulation-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2069-walking-robot-simulation-ii) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2288-count-operations-to-obtain-zero) |
