@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3660-jump-game-ix) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
@@ -954,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3721-longest-balanced-subarray-ii) |
