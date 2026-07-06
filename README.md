@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [1288-remove-covered-intervals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -994,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
