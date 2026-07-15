@@ -770,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -1686,6 +1687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Shortest Path
 |  |
