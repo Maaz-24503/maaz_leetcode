@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0473-matchsticks-to-square](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0486-predict-the-winner) |
 | [0514-freedom-trail](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0576-out-of-boundary-paths](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0576-out-of-boundary-paths) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0396-rotate-function) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0486-predict-the-winner](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -1451,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0486-predict-the-winner) |
 | [0930-all-possible-full-binary-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -1876,6 +1880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0909-stone-game) |
 | [1140-stone-game-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1140-stone-game-ii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
