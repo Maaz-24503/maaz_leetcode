@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3194-find-words-containing-character) |
@@ -1199,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1252,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2868-continuous-subarrays) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
