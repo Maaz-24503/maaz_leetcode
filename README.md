@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2039-the-time-when-the-network-becomes-idle) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2029-stone-game-ix) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2050-count-good-numbers) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1952-minimum-sideway-jumps](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1952-minimum-sideway-jumps) |
 | [1975-maximum-matrix-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1329,6 +1332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2029-stone-game-ix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2029-stone-game-ix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1915,6 +1919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1686-stone-game-vi](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1686-stone-game-vi) |
+| [2029-stone-game-ix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
@@ -1988,15 +1993,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
