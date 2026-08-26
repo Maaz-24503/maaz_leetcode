@@ -688,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2573-find-the-string-with-lcp](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1278,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2868-continuous-subarrays) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
