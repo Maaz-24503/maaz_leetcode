@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3849-equal-sum-grid-partition-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3903-inverse-coin-change](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3903-inverse-coin-change) |
 | [3938-twisted-mirror-path-count](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3938-twisted-mirror-path-count) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Combinatorics
 |  |
 | ------- |
