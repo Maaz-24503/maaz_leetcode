@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3903-inverse-coin-change](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3903-inverse-coin-change) |
+| [3903-smallest-stable-index-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3938-twisted-mirror-path-count](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3938-twisted-mirror-path-count) |
 ## Dynamic Programming
 |  |
@@ -1073,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3849-equal-sum-grid-partition-i) |
+| [3903-smallest-stable-index-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
