@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0166-fraction-to-recurring-decimal) |
