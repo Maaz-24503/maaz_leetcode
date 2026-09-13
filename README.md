@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0835-image-overlap](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0874-walking-robot-simulation) |
 | [0875-longest-mountain-in-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -1406,6 +1407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0794-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0967-minimum-falling-path-sum) |
