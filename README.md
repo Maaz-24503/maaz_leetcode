@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2439-minimize-maximum-of-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2470-removing-stars-from-a-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
@@ -956,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2439-minimize-maximum-of-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2439-minimize-maximum-of-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
@@ -1023,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2540-minimum-common-value) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
