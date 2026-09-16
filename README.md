@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Maaz-24503/maaz_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -1051,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-find-the-highest-altitude](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1833-find-the-highest-altitude) |
