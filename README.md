@@ -677,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -1534,6 +1535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Maaz-24503/maaz_leetcode/tree/master/0937-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -2090,4 +2092,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Maaz-24503/maaz_leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
