@@ -2,25 +2,15 @@ class Solution {
 public:
     bool checkValidString(string s) {
         int n = s.size();
-        stack<int> star;
-        stack<int> st;
-        for(int i = 0; i<n; i++){
-            if(s[i] == ')'){
-                if(!st.empty()) st.pop();
-                else if(!star.empty()) star.pop();
-                else return false;
-            }
-            else if(s[i] == '*') star.push(i);
-            else st.push(i);
-        }
-        if(star.size() < st.size()) return false;
-        while(!st.empty()){
-            if(st.top() < star.top()){
-                st.pop();
-                star.pop();
-            }
-            else return false;
-        }
-        return true;
+        vector<vector<int>> memo(n, vector<int> (n + 1, -1));
+        function<bool(int, int)> dp = [&](int i, int open) -> bool {
+            if(i == n) return open == 0;
+            if(open < 0) return false;
+            if(memo[i][open] != -1) return memo[i][open];
+            if(s[i] == ')') return memo[i][open] = dp(i + 1, open - 1);
+            else if(s[i] == '(') return memo[i][open] = dp(i + 1, open + 1);
+            else return memo[i][open] = dp(i + 1, open - 1) || dp(i + 1, open) || dp(i + 1, open + 1);
+        };
+        return dp(0, 0);
     }
 };
