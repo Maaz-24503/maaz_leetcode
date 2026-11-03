@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -894,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
