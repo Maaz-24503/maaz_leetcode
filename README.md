@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3938-twisted-mirror-path-count](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3938-twisted-mirror-path-count) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3903-inverse-coin-change](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3903-inverse-coin-change) |
 | [3938-twisted-mirror-path-count](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3938-twisted-mirror-path-count) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -1069,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Maaz-24503/maaz_leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
